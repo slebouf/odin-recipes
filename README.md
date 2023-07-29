@@ -1,0 +1,1 @@
+Main index page will consist of links to different recipes.
